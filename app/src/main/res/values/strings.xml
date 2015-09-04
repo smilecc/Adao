@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A岛</string>
+    <string name="menu_settings">设置</string>
+
+    <string name="account_username_hint">Username</string>
+    <string name="account_password_hint">Password</string>
+    <string name="txt_trigger_hint">Text trigger EditText</string>
+    <string name="focus_trigger_hint">Focus trigger EditText</string>
+    <string name="fav_hero_hint">Who is your favorite super hero?</string>
+    <string name="fav_villain_hint">Who is your favorite villain?</string>
+    <string name="prog_gen_header">Programmatically generated section</string>
+</resources>

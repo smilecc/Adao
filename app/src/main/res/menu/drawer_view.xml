@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_menu"
+    >
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/drawer_menu_group">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_dashboard"
+            android:checked="true"
+            android:title="版块"/>
+        <!--<item-->
+            <!--android:id="@+id/nav_messages"-->
+            <!--android:icon="@drawable/ic_event"-->
+            <!--android:title="订阅"/>-->
+        <!--<item-->
+            <!--android:id="@+id/nav_friends"-->
+            <!--android:icon="@drawable/ic_headset"-->
+            <!--android:title="收藏"/>-->
+    </group>
+
+    <item android:title="System">
+        <menu>
+            <item
+                android:checkable="false"
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_dashboard"
+                android:title="设置"/>
+
+        </menu>
+    </item>
+
+</menu>

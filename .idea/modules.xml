@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignSupportLibraryDemo-master.iml" filepath="$PROJECT_DIR$/DesignSupportLibraryDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatinglabel/floatinglabel.iml" filepath="$PROJECT_DIR$/floatinglabel/floatinglabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ldialogs/ldialogs.iml" filepath="$PROJECT_DIR$/ldialogs/ldialogs.iml" />
+    </modules>
+  </component>
+</project>
