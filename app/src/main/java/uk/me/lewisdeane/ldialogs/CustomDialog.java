@@ -16,7 +16,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.hujiang.designsupportlibrarydemo.R;
+import com.smilec.adao.R;
 
 
 // Class extends BaseDialog which contains variables and properties applicable to all adaptations of our custom dialogs.

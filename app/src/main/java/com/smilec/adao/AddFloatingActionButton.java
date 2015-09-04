@@ -1,4 +1,4 @@
-package com.getbase.floatingactionbutton;
+package com.smilec.adao;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,8 +11,6 @@ import android.graphics.drawable.shapes.Shape;
 import android.support.annotation.ColorRes;
 import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
-
-import com.smilec.adao.R;
 
 public class AddFloatingActionButton extends FloatingActionButton {
   int mPlusColor;

@@ -38,7 +38,7 @@
         android:layout_height="match_parent" />
     </android.support.v4.widget.SwipeRefreshLayout>
     </LinearLayout>
-    <com.hujiang.designsupportlibrarydemo.FloatingActionsMenu
+    <com.smilec.adao.FloatingActionsMenu
         android:id="@+id/fab_menu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -49,24 +49,24 @@
         app:fab_addButtonColorPressed="#96ff4081"
         >
 
-            <com.hujiang.designsupportlibrarydemo.FloatingActionButton
+            <com.smilec.adao.FloatingActionButton
                 android:id="@+id/fab_add"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:fab_colorNormal="@color/orange"
                 android:src="@drawable/ic_content_create"/>
-            <com.hujiang.designsupportlibrarydemo.FloatingActionButton
+            <com.smilec.adao.FloatingActionButton
                 android:id="@+id/fab_scroll_to_up"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:fab_colorNormal="@color/green"
                 android:src="@drawable/ic_editor_publish"/>
-        <com.hujiang.designsupportlibrarydemo.FloatingActionButton
+        <com.smilec.adao.FloatingActionButton
             android:id="@+id/fab_bak"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:fab_colorNormal="@color/material_blue_grey_800"
             android:src="@drawable/ic_hardware_keyboard_backspace"/>
 
-    </com.hujiang.designsupportlibrarydemo.FloatingActionsMenu>
+    </com.smilec.adao.FloatingActionsMenu>
 </android.support.design.widget.CoordinatorLayout>

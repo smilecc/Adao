@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.hujiang.designsupportlibrarydemo"
+    package="com.smilec.adao"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -17,7 +17,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.DesignDemo">
         <activity
-            android:name=".MainActivity"
+            android:name="com.smilec.adao.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -27,9 +27,9 @@
 
         </activity>
 
-        <activity android:name=".DetailActivity"/>
-        <activity android:name=".ImgActivity"/>
-        <activity android:name=".ReplyActivity"/>
-        <activity android:name=".SettingActivity"/>
+        <activity android:name="com.smilec.adao.DetailActivity"/>
+        <activity android:name="com.smilec.adao.ImgActivity"/>
+        <activity android:name="com.smilec.adao.ReplyActivity"/>
+        <activity android:name="com.smilec.adao.SettingActivity"/>
     </application>
 </manifest>

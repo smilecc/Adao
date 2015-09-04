@@ -12,7 +12,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.hujiang.designsupportlibrarydemo.R;
+import com.smilec.adao.R;
 
 /**
  * Created by Lewis on 17/08/2014

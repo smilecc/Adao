@@ -1,4 +1,4 @@
-package com.getbase.floatingactionbutton;
+package com.smilec.adao;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -29,11 +29,8 @@ import android.util.AttributeSet;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.smilec.adao.R;
-
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
-
 
 public class FloatingActionButton extends ImageButton {
 
